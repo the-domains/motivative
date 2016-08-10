@@ -1,0 +1,14 @@
+layout_spectrum: 0.24266241723671556
+typography_spectrum: 0.19923213543370366
+color:
+  brandStrength: 0.9808243401348591
+  lightness: 0.23403030587360263
+  saturation: 0.7234208628069609
+  rhythmicContrast: 0.3123692881781608
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Motivative
