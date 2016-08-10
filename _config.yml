@@ -1,15 +1,15 @@
-typography_spectrum: 0.19923213543370366
+typography_spectrum: 0.9708626363426447
 color:
-  brandStrength: 0.9808243401348591
-  lightness: 0.23403030587360263
-  saturation: 0.7234208628069609
-  rhythmicContrast: 0.3123692881781608
+  brandStrength: 0.6441756736021489
+  lightness: 0.5627536422107369
+  saturation: 0.4540838426910341
+  rhythmicContrast: 0.0557676893658936
   brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-layout_spectrum: 0.24266241723671556
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+layout_spectrum: 0.4204709380865097
 name: Motivative
 title: 'motivate .. decide, ACT !'
