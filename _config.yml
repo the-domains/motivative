@@ -1,4 +1,3 @@
-layout_spectrum: 0.24266241723671556
 typography_spectrum: 0.19923213543370366
 color:
   brandStrength: 0.9808243401348591
@@ -11,4 +10,6 @@ color:
     - '#FFFFFF'
     - '#ACCFCC'
     - '#8A0917'
+layout_spectrum: 0.24266241723671556
 name: Motivative
+title: 'motivate .. decide, ACT !'
